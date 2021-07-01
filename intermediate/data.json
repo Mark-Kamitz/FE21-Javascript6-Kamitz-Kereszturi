@@ -1,0 +1,72 @@
+let employees = `
+  [{
+    "UniqueID": "29893944817",
+    "firstName": "Patrik",
+    "lastName": "Jonathan",
+    "emailAddress": "patrik.k.jonathan@gmail.com",
+    "jobTitleName" : "Developer",
+    "salary" : "120.000 $"
+  }, {
+    "UniqueID": "29893944818",
+    "firstName": "Peter",
+    "lastName": "Best",
+    "emailAddress": "peter.b@gmail.com",
+    "jobTitleName" : "Data Scientist",
+    "salary" : "145.000 $"
+  }, {
+     "UniqueID": "29893944819",
+    "firstName": "John",
+    "lastName": "Remorse",
+    "emailAddress": "john.r.@gmail.com",
+    "jobTitleName" : "Doctor",
+    "salary" : "180.000 $"
+  }, {
+    "UniqueID": "29893944820",
+    "firstName": "Petra",
+    "lastName": "Some",
+    "emailAddress": "petra.s@gmail.com",
+    "jobTitleName" : "Nurse",
+    "salary" : "40.000 $"
+  }, {
+    "UniqueID": "29893944821",
+    "firstName": "Kathrin",
+    "lastName": "Summers",
+    "emailAddress": "kathrin.s@gmail.com",
+    "jobTitleName" : "Waitres",
+    "salary" : "15.000 $"
+  }, {
+     "UniqueID": "29893944822",
+    "firstName": "Irati",
+    "lastName": "TheBest",
+    "emailAddress": "irati.t@gmail.com",
+    "jobTitleName" : "DTeacher",
+    "salary" : "250.000 $"
+  }, {
+    "UniqueID": "29893944823",
+    "firstName": "John",
+    "lastName": "Smith",
+    "emailAddress": "john.s.@gmail.com",
+    "jobTitleName" : "DEngineer",
+    "salary" : "80.000 $"
+  }, {
+    "UniqueID": "29893944824",
+    "firstName": "Nesli",
+    "lastName": "Hahn",
+    "emailAddress": "nesli.h.@gmail.com",
+    "jobTitleName" : "Programmer",
+    "salary" : "220.000 $"
+  }, {
+     "UniqueID": "29893944825",
+    "firstName": "Mark",
+    "lastName": "Wish",
+    "emailAddress": "pmark.w.@gmail.com",
+    "jobTitleName" : "Developer",
+    "salary" : "550.000 $"
+  }, {
+    "UniqueID": "29893944826",
+    "firstName": "Uros",
+    "lastName": "TheGreat",
+    "emailAddress": "uros.t..jonathan@gmail.com",
+    "jobTitleName" : "Master",
+    "salary" : "1.500.000 $"
+  } ] `

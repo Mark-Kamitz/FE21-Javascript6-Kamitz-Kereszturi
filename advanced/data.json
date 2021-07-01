@@ -1,0 +1,27 @@
+let books = `
+  [ {
+        "title": "Buntspecht",
+        "author": "Tom Robbins",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/41gJuPwMb4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "read": "true"
+    },{
+        "title": "Askir",
+        "author": "Richard Schwarz",
+        "cover": "https://m.media-amazon.com/images/I/51SzMJuHqFL._SY346_.jpg",
+        "read": "false"
+    },{
+        "title": "Blackout",
+        "author": "Andreas Eschbach",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51LvAp-EN-L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "read": "true"
+    },{
+        "title": "Helix",
+        "author": "Marc Elsberg",
+        "cover": "https://m.media-amazon.com/images/I/41-oE8V8YkL._SY346_.jpg",
+        "read": "true"
+    },{
+        "title": "Outlander",
+        "author": "Diana GGabaldon",
+        "cover": "https://m.media-amazon.com/images/I/51gtIK3uWiL.jpg",
+        "read": "false"
+  } ] `
