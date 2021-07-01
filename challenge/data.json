@@ -1,0 +1,27 @@
+let cars = `
+  [ {
+        "name": "Porsche",
+        "productionYear": "1999",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41gJuPwMb4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "price": "300.000$"
+    },{
+        "name": "Maserati",
+        "productionYear": "2005",
+        "image": "https://m.media-amazon.com/images/I/51SzMJuHqFL._SY346_.jpg",
+        "price": "100.000$"
+    },{
+        "name": "BMW",
+        "productionYear": "2021",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51LvAp-EN-L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "price": "250.000$"
+    },{
+        "name": "Tesla",
+        "productionYear": "2021",
+        "image": "https://m.media-amazon.com/images/I/41-oE8V8YkL._SY346_.jpg",
+        "price": "130.000$"
+    },{
+        "name": "Mercedes",
+        "productionYear": "1985",
+        "image": "https://m.media-amazon.com/images/I/51gtIK3uWiL.jpg",
+        "price": "500$"
+  } ] `
