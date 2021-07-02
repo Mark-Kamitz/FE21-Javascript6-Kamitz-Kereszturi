@@ -32,7 +32,7 @@ for(let i = 0; i < btns.length; i++) {
 
 function printMore(index) {
     document.getElementById("showMore").innerHTML += `
-    <div class="col-12 col-sm-12 col-md-12 col-lg-12 mb-4 p-5">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12 mb-4 p-5" id="moreInfo" style="cursor:pointer">
         <div class="card" container-fluid">
             <img src="${mydata[index].image}" style="object-fit:cover; width:100%; height:150px;" class="card-img-top" alt="...">
             <div class="card-body">
@@ -43,6 +43,13 @@ function printMore(index) {
         </div> 
     </div>
     `
+    let Info = document.getElementById("moreInfo");
+    Info.addEventListener("click", reload);
+
+    function reload(){
+        window.location.reload();
+        
+    }
 }
 
 
