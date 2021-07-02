@@ -2,26 +2,31 @@ let cars = `
   [ {
         "name": "Porsche",
         "productionYear": "1999",
-        "image": "https://images-na.ssl-images-amazon.com/images/I/41gJuPwMb4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "image": "https://cdn.pixabay.com/photo/2018/04/07/16/30/auto-3298890__340.jpg",
         "price": "300.000$"
     },{
         "name": "Maserati",
         "productionYear": "2005",
-        "image": "https://m.media-amazon.com/images/I/51SzMJuHqFL._SY346_.jpg",
+        "image": "https://cdn.pixabay.com/photo/2018/01/15/23/44/maserati-granturismo-3085051__340.jpg",
         "price": "100.000$"
     },{
         "name": "BMW",
         "productionYear": "2021",
-        "image": "https://images-na.ssl-images-amazon.com/images/I/51LvAp-EN-L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "image": "https://cdn.pixabay.com/photo/2018/02/21/03/15/bmw-m4-3169357__340.jpg",
         "price": "250.000$"
     },{
         "name": "Tesla",
         "productionYear": "2021",
-        "image": "https://m.media-amazon.com/images/I/41-oE8V8YkL._SY346_.jpg",
+        "image": "https://cdn.pixabay.com/photo/2020/01/20/20/39/car-4781370__340.jpg",
         "price": "130.000$"
     },{
         "name": "Mercedes",
         "productionYear": "1985",
-        "image": "https://m.media-amazon.com/images/I/51gtIK3uWiL.jpg",
-        "price": "500$"
-  } ] `
+        "image": "https://cdn.pixabay.com/photo/2017/03/27/14/56/auto-2179220__340.jpg",
+        "price": "500.000$"
+  },{
+        "name": "Lambo",
+        "productionYear": "2018",
+        "image": "https://cdn.pixabay.com/photo/2017/03/12/19/12/lamborghini-2137815__340.jpg",
+        "price": "1.500.000$"
+}] `
